@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mathsan06hash.arena24",
+      "sha256_cert_fingerprints": [
+        "E1:6E:E8:8A:96:0F:A7:3A:91:0D:72:EA:AC:C3:02:E7:E3:85:69:9A:80:22:3E:E7:22:58:FA:E3:9C:59:A8:80"
+      ]
+    }
+  }
+]
