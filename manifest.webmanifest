@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "24 Arena: Dört İşlem Oyunu",
+  "short_name": "24 Arena",
+  "description": "4 sayı, 4 işlem, tek hedef: 24! İlkokuldan ortaokula beş zorluk seviyesi.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d1128",
+  "theme_color": "#11142c",
+  "categories": ["education", "games", "kids"],
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
